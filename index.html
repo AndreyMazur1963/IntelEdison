@@ -1,0 +1,17 @@
+<meta http-equiv="refresh" content="60">
+<html>
+<body>
+<style>table,th,td {border: 1px solid black;}th,td {padding: 4px;}</style>
+<table>
+<tr>
+<th>Parameter</th><th>Value</th>
+</tr>
+<tr>
+<td>Page updated</td><td>Tue Feb 11 21:23:01 MSK 2020
+</td></tr>
+<tr>
+<td>Edison Battery</td><td>95 %
+</td></tr>
+</table>
+</body>
+</html>
